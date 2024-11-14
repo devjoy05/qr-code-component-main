@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-I used CSS positioning to center my container instead of the much easier methods like flexbox or grid because it's one of the things that I'm still quite confused with and trying to familiarize myself with.
+I used CSS positioning instead of the easier methods like Flexbox or Grid since it's an area I still find quite confusing. It didn’t work initially, but I got it right after remembering to apply the translate function.
 
 ### Built with
 
